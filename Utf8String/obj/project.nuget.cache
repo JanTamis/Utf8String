@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pdRXqgu9k4+0adWtk3JGcHoLNnIdZL0dPNK4lKHIrCYpRGVsGj7i+Nc1SnC8gYcFSNhaDG4J9igG6ecrn1nCcw==",
+  "dgSpecHash": "OvhNkd4rpcSWfO5828wn+jgrQ/79CJtE5PMrzVEqUief2rzVmn46X/NQxolerIRPcIUN7LAl/8OwrMO030fP9Q==",
   "success": true,
   "projectFilePath": "/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/Utf8String.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jantamiskossen/.nuget/packages/microsoft.netcore.app.ref/6.0.3/microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "/Users/jantamiskossen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.3/microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

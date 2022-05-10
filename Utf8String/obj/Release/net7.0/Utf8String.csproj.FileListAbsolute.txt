@@ -1,0 +1,12 @@
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/bin/Release/net7.0/Utf8String.deps.json
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/bin/Release/net7.0/Utf8String.dll
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/bin/Release/net7.0/Utf8String.pdb
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.csproj.AssemblyReference.cache
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.AssemblyInfoInputs.cache
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.AssemblyInfo.cs
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.csproj.CoreCompileInputs.cache
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.dll
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/refint/Utf8String.dll
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/Utf8String.pdb
+/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/obj/Release/net7.0/ref/Utf8String.dll

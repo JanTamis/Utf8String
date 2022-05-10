@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utf8String", "Utf8String\Utf8String.csproj", "{1EED4E03-1580-4C3A-988C-062AA2075E7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utf8String.UnitTests", "Utf8String.UnitTests\Utf8String.UnitTests.csproj", "{3BC51236-51E6-4C16-8AC4-3A89343E3743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utf8String.PerformanceTests", "Utf8String.PerformanceTests\Utf8String.PerformanceTests.csproj", "{41521981-2DAC-47F4-9F2A-657D8E521C51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{1EED4E03-1580-4C3A-988C-062AA2075E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EED4E03-1580-4C3A-988C-062AA2075E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EED4E03-1580-4C3A-988C-062AA2075E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC51236-51E6-4C16-8AC4-3A89343E3743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC51236-51E6-4C16-8AC4-3A89343E3743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC51236-51E6-4C16-8AC4-3A89343E3743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC51236-51E6-4C16-8AC4-3A89343E3743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41521981-2DAC-47F4-9F2A-657D8E521C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41521981-2DAC-47F4-9F2A-657D8E521C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41521981-2DAC-47F4-9F2A-657D8E521C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41521981-2DAC-47F4-9F2A-657D8E521C51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

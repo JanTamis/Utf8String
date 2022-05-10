@@ -10,8 +10,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Utf8String")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Jan Tamis Kossen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("© Jan Tamis Kossen")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("A implementation of the string class but using the UTF-8 encoding")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utf8String")]

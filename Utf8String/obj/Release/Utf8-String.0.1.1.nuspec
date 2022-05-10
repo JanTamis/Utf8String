@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Utf8-String</id>
+    <version>0.1.1</version>
+    <title>Utf8String</title>
+    <authors>Jan Tamis Kossen</authors>
+    <description>Package Description</description>
+    <releaseNotes>Added the CopyTo methods</releaseNotes>
+    <copyright>© Jan Tamis Kossen</copyright>
+    <tags>Utf8 UTF-8 String</tags>
+    <dependencies>
+      <group targetFramework="net6.0" />
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/bin/Release/net6.0/Utf8String.dll" target="lib/net6.0/Utf8String.dll" />
+    <file src="/Users/jantamiskossen/RiderProjects/Utf8String/Utf8String/bin/Release/net7.0/Utf8String.dll" target="lib/net7.0/Utf8String.dll" />
+  </files>
+</package>
